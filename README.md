@@ -25,7 +25,7 @@ We collected over 100k articles for 8 different news topics
 
 Those articles got published over the first half of August 2020. 
 
-All `topics` have 15k articles except for `SCIENCE` which is 3774. Those articles are published by thousands different news websites.
+All `topics` have 15k articles except for `SCIENCE` which is 3774. Those articles are published by thousands of different news websites.
 
 
 ### Other Useful Links
